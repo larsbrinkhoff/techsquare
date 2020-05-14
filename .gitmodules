@@ -1,0 +1,18 @@
+[submodule "subrepos/vt05"]
+	path = subrepos/vt05
+	url = https://github.com/aap/vt05
+[submodule "subrepos/tvcon"]
+	path = subrepos/tvcon
+	url = https://github.com/aap/pdp11
+[submodule "subrepos/tek4010"]
+	path = subrepos/tek4010
+	url = https://github.com/rricharz/tek4010
+[submodule "subrepos/simh"]
+	path = subrepos/simh
+	url = https://github.com/simh/simh
+[submodule "subrepos/simlac"]
+	path = subrepos/simlac
+	url = https://github.com/livingcomputermuseum/sImlac
+[submodule "subrepos/crt-simulation"]
+	path = subrepos/crt-simulation
+	url = https://github.com/larsbrinkhoff/crt-simulation
